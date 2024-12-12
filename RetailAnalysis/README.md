@@ -2,6 +2,12 @@
 
 This repository contains a comprehensive analysis of retail data using SQL. The goal is to extract meaningful insights from the dataset, such as sales performance, customer behavior, and trends over time.
 
+### Key Insights
+- **Sales Insights**
+- **Customer Behavior**
+- **Product Performance**
+- **Time-Based Analysis**
+
 ## Dataset
 The dataset used in this analysis is a CSV file named `retail.csv` containing the following columns:
 
