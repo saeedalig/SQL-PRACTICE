@@ -21,11 +21,6 @@ DELIMITER ','
 CSV HEADER;
 
 
--- Renaming col
-ALTER TABLE retail
-RENAME COLUMN transactions_id TO transaction_id; 
-
-
 SELECT * FROM retail;
 
 SELECT *
